@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC-w3IDluNUcJ8PnOl0AaWjhcNUkw-qgko',
-    appId: '1:105617353219:web:f26db69f5f493ee50ffc36',
+    apiKey: 'Add your key',
+    appId: '1:105617353219:web:f26zzzzzzz',
     messagingSenderId: '105617353219',
     projectId: 'ai-content-detector-2d3b3',
     authDomain: 'ai-content-detector-2d3b3.firebaseapp.com',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCTMdcOcOps3POQfuiu-mWg-sZLyynWLqA',
+    apiKey:'Add your key',
     appId: '1:105617353219:android:df8f264d4022acd40ffc36',
     messagingSenderId: '105617353219',
     projectId: 'ai-content-detector-2d3b3',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAcIZHhPptzhg-1AZCtSX1x7agIBudf31o',
+    apiKey:'Add your key',
     appId: '1:105617353219:ios:d481da39f72cfb590ffc36',
     messagingSenderId: '105617353219',
     projectId: 'ai-content-detector-2d3b3',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAcIZHhPptzhg-1AZCtSX1x7agIBudf31o',
+    apiKey: 'Add your key',
     appId: '1:105617353219:ios:d481da39f72cfb590ffc36',
     messagingSenderId: '105617353219',
     projectId: 'ai-content-detector-2d3b3',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyC-w3IDluNUcJ8PnOl0AaWjhcNUkw-qgko',
+    apiKey: 'Add your key',
     appId: '1:105617353219:web:6d55142dece986d30ffc36',
     messagingSenderId: '105617353219',
     projectId: 'ai-content-detector-2d3b3',
