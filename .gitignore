@@ -43,3 +43,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Security - API Keys and Secrets
+.env
+.env.local
+.env.*.local
+*.key
+firebase_config.dart
+google_maps_api_key.dart
