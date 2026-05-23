@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105617353219",
+    "project_id": "ai-content-detector-2d3b3",
+    "storage_bucket": "ai-content-detector-2d3b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105617353219:android:df8f264d4022acd40ffc36",
+        "android_client_info": {
+          "package_name": "com.example.ai_content_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTMdcOcOps3POQfuiu-mWg-sZLyynWLqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
